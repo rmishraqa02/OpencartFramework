@@ -31,7 +31,7 @@ public class LoginPage {
 	private final By registrationLink = By.linkText("Register");
 	
 	// -----------public page actions/method
-	@Step("getting the login page title")
+	@Step("getting the login page title value")
 	public String getLoginPageTitle() {
 	String actTitle =	eleUtil.waitForTitleIs(AppConstants.LOGIN_PAGE_TITLE, AppConstants.SHORT_TIME_OUT);
 	System.out.println("Login page title : " + actTitle);
