@@ -10,11 +10,11 @@ public class MyPage {
 		System.out.println("Test");
 	}
 	
-		public void login() {
-		System.out.println("hello hello");
-		System.out.println("hello");
-		System.out.println("hello");
-		System.out.println("hello");
-	}
+public void log() {
+			System.out.println("Hi sir");
+			System.out.println("Hi sir");
+			System.out.println("Hi sir");
+			System.out.println("Hi sir");
+		}
 	
 }
