@@ -10,6 +10,12 @@ public class MyPage {
 		System.out.println("Test");
 	}
 	
+		public void login() {
+		System.out.println("login");
+		System.out.println("login");
+		System.out.println("login");
+		System.out.println("login");
+	}
 	
 	public void login() {
 		System.out.println("login");
