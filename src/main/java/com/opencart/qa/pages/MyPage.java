@@ -11,4 +11,11 @@ public class MyPage {
 	}
 	
 	
+	public void login() {
+		System.out.println("login");
+		System.out.println("login");
+		System.out.println("login");
+		System.out.println("login");
+	}
+	
 }
