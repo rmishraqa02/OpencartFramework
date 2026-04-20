@@ -11,7 +11,7 @@ public class MyPage {
 	}
 	
 		public void login() {
-		System.out.println("hello");
+		System.out.println("hello hello");
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("hello");
