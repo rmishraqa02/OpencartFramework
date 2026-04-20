@@ -16,5 +16,7 @@ public void log() {
 			System.out.println("Hi sir");
 			System.out.println("Hi sir");
 		}
-	
+	public void logOut() {
+			System.out.println("Hi logut");
+		}
 }
